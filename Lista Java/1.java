@@ -1,5 +1,8 @@
 public class teste{
 	public static void main (String[]args){
-	System.out.println("Olá Mundo");
+	int i=10;
+	int j=2;
+	int media = (i+j)/2;
+	System.out.println(media);
 	}
 }
