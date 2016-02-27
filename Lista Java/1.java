@@ -3,6 +3,6 @@ public class teste{
 	int i=10;
 	int j=2;
 	int media = (i+j)/2;
-	System.out.println(media);
+	System.out.println("Aluno com média: "+media);
 	}
 }
